@@ -8,3 +8,9 @@ The neural network architecture used for digit recognition typically consists of
 During training, the weights and biases of the neural network are adjusted using an optimization algorithm such as stochastic gradient descent (SGD). The goal is to minimize the loss function, which measures the difference between the predicted output of the model and the true label of the input image. The most commonly used loss function for digit recognition is the cross-entropy loss.
 
 Once the model is trained, it can be used to predict the digit in new images. The performance of the model is typically evaluated using metrics such as accuracy, precision, and recall on the validation set. A well-trained model can achieve accuracy above 99% on the MNIST dataset.
+
+
+<img src="digit.png" align="center" />
+
+
+<img src="digit1.png" align="center" />
