@@ -10,7 +10,7 @@ During training, the weights and biases of the neural network are adjusted using
 Once the model is trained, it can be used to predict the digit in new images. The performance of the model is typically evaluated using metrics such as accuracy, precision, and recall on the validation set. A well-trained model can achieve accuracy above 99% on the MNIST dataset.
 
 
-<img src="digit.png" align="center" />
+<img src="digits1.png" align="center" />
 
 
 <img src="digit1.png" align="center" />
