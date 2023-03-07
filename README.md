@@ -13,4 +13,4 @@ Once the model is trained, it can be used to predict the digit in new images. Th
 <img src="digits1.png" align="center" />
 
 
-<img src="digit1.png" align="center" />
+<img src="digits.png" align="center" />
